@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- Если захочешь добавить свой баннер, залей картинку в репозиторий и раскомментируй строку ниже -->
+<!-- To add a custom banner, upload an image to the repo and uncomment the line below -->
 <!-- <img src="./banner.png" alt="Banner" width="100%" /> -->
 
-# Привет, я Даниил (`LayrCrismer`) 👋
+# Hi, I'm Daniil (`LayrCrismer`) 👋
 
-**Студент 2 курса ИКНТ • Software Engineering & QA**
+**2nd-Year Computer Science & Software Engineering Student • Java & QA**
 
 [![Focus](https://img.shields.io/badge/Focus-Java_%7C_Python_%7C_QA-2f81f7?style=for-the-badge)](#)
 [![Location](https://img.shields.io/badge/Perm,_Russia-1f2328?style=for-the-badge&logo=github&logoColor=white)](#)
@@ -14,18 +14,18 @@
 
 ---
 
-### 👨‍💻 Обо мне
+### 👨‍💻 About Me
 
-- 🎓 Учусь на **2 курсе ИКНТ** (направление программной инженерии и компьютерных наук).
-- 💻 Основной фокус сейчас — разработка на **Java**, работа с базами данных (**PostgreSQL**) и тестирование ПО (**QA / автоматизация на Python**).
-- 🛠️ В арсенале также есть практический опыт с **C++** и базовый веб-стек (**Vue**).
-- 🚀 Открыт к стажировкам, учебным коллаборациям и junior-позициям в разработке или тестировании.
+- 🎓 **2nd-year student** at the Institute of Computer Science and Technology (ICST), majoring in Software Engineering.
+- 💻 Currently focused on backend development with **Java**, relational databases (**PostgreSQL**), and **Software Quality Assurance (QA / test automation with Python)**.
+- 🛠️ Hands-on experience with **C++** (algorithms, state machines) and basic frontend development (**Vue**).
+- 🚀 Open to internships, collaborative projects, and junior roles in Software Development or QA Engineering.
 
 ---
 
-### 🛠️ Технологический стек
+### 🛠️ Tech Stack
 
-**Языки программирования:**
+**Programming Languages:**
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -33,17 +33,7 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
-**Базы данных, тестирование и инструменты:**
+**Databases, Testing & Tools:**
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-</p>
-
----
-
-### 📌 Избранные проекты
-
-- **[python-matrix-trainee](https://github.com/LayrCrismer/python-matrix-trainee)** — асинхронная
+  <img src="
