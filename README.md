@@ -7,7 +7,7 @@
 
 **2nd-Year Computer Science & Software Engineering Student • Java & QA**
 
-[![Focus](https://img.shields.io/badge/Focus-Java_%7C_Python_%7C_QA-2f81f7?style=for-the-badge)](#)
+[![Focus](https://img.shields.io/badge/Focus-Java_%7C_Python_%7C)](#)
 [![Location](https://img.shields.io/badge/Perm,_Russia-1f2328?style=for-the-badge&logo=github&logoColor=white)](#)
 
 </div>
