@@ -3,7 +3,7 @@
 <!-- To add a custom banner, upload an image to the repo and uncomment the line below -->
 <!-- <img src="./banner.png" alt="Banner" width="100%" /> -->
 
-# Hi, I'm Daniil (`LayrCrismer`) 👋
+# Hi, I'm Daniel Crismer 👋
 
 **2nd-Year Computer Science & Software Engineering Student • Java & QA**
 
